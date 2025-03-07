@@ -12,4 +12,5 @@ export default defineConfig({
         target: 'esnext',
         minify: true,
     },
+    base: "./"
 });
