@@ -1,15 +1,7 @@
-# dialogue-editor
+# RAII Dialogue SDK
 
-To install dependencies:
+This repository contains RAII Games' Dialogue SDK. It's a tool that abstracts the complexity of graph data structures for dialogue systems in our games and generates Lua code.
 
-```bash
-bun install
-```
+## License
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.30. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+This project is licensed under the Apache License 2.0.
